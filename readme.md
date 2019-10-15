@@ -7,7 +7,7 @@ Wrapper that makes MutationObserver more easy to use.
 Include the script in the page
 
 ```html
-<script type="module" src="/node_modules/mutation-observer/mutation-observer.js"></script>
+<script type="module" src="/node_modules/@vdegenne/mutation-observer/mutation-observer.js"></script>
 ```
 
 then on one of your element
@@ -62,4 +62,4 @@ MutationObserver.observe(elementToWatch, callback) // default
 
 ## Installation
 
-```npm i mutation-observer```
+```npm i @vdegenne/mutation-observer```
