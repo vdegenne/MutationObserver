@@ -1,0 +1,20 @@
+{
+  "name": "mutation-observer",
+  "version": "1.0.0",
+  "description": "makes MutationObserver more easy",
+  "main": "mutation-observer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdegenne/MutationObserver.git"
+  },
+  "keywords": ["mutations"],
+  "author": "Valentin Degenne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdegenne/MutationObserver/issues"
+  },
+  "homepage": "https://github.com/vdegenne/MutationObserver#readme"
+}
